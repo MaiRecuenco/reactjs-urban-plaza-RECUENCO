@@ -35,7 +35,7 @@ const Navigation = () => {
       </nav> */}
       <nav className="bg-blue-800 text-white p-4 sticky top-0 z-50 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
-          <div className="flx items-center space-x-2">
+          <div className="flex items-center space-x-2">
             <FaShoppingBag className="text-2xl" />
             <h1 className="text-xl font-bold">Urban Plaza</h1>
           </div>
